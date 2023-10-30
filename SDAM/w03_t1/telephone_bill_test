@@ -1,0 +1,13 @@
+Input = minutes
+rate = 0.15 (15 pences)
+vat = 0.2 (20%)
+Ouput = minutes * rate * vat + minutes * rate
+
+Input             |     Excpet Ouput                             |          Ouput
+Interger number   |     minutes * rate * vat + minutes * rate    |          minutes * rate * vat + minutes * rate
+0                 |     0                                        |          0
+1                 |     1 * 0.15 * 0.2 + 1 * 0.2 = 0.18          |          0.18
+125               |     125 * 0.15 * 0.2 + 125 * 0.2 = 22.5      |          22.5
+A                 |     Error                                    |          Error
+
+Reason to test: number 0 and 1 is the most simple number that easily for us to see the smallest change so that we can understand when we input the larger number

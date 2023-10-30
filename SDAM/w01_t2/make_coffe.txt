@@ -1,0 +1,25 @@
+Prepare materials and utensils
+    select Nespresso Pod
+    Get Mug
+    Get spoon
+    Get milk frother
+    Get milk
+Prepare machine
+    Turn lever all the way right to open 
+    Place Nespresso pod in cartridge holder
+    Close lid
+    Turn level all the way left to lock
+Brew coffee
+    Put mug on tray (remove the old onece)
+    Use spoon to scoop 1/2 teaspoon sugar in mug
+    press brew on machine
+Froth milk
+    Fill milk into mug
+    Place lid on frother
+    Press start button on milk frother
+    When it's done then remove it
+Enjoy
+    Remove mug from tray
+    Drink
+
+ref: https://gist.github.com/katelessardrad/f028ec4a9091350d5daabee69d9e233b

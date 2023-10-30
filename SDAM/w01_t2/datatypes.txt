@@ -1,0 +1,7 @@
+a. A company's profit: text type (str)
+b. A person's weight: number type (int)
+c. A book title: text type (str)
+d. Average rainfall in September: sequence types (range)
+e. Number of runs scored by a criketer: number type (int)
+f. A telephone number, including area code: text type (str)
+g. A dress size: number type (int)
